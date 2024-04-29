@@ -1,4 +1,4 @@
-# Social Media and Web Analytics: A/B Testing Intro - Code
+# Social Media and Web Analytics: A/B Testing Next Steps - Code
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2024-red.svg)]()
@@ -11,7 +11,7 @@ Clone a copy of this repository using Git.
 To clone a copy of this repository to your own PC:
 
 ```{bash, eval = FALSE}
-git clone https://github.com/tisem-digital-marketing/smwa-ab-test-code.git
+git clone https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code.git
 ```
 
 Once you have cloned the files, open the cloned repository in RStudio as an RStudio project and use the empty R scripts to follow along with the lecture as we work through material.
@@ -52,13 +52,13 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Suggested Citation
 
-Deer, Lachlan. 2024. Social Media and Web Analytics: A/B Testing - Intro -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-ab-test-code"
+Deer, Lachlan. 2024. Social Media and Web Analytics: A/B Testing - Next Steps -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code"
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-randomization-2024,
-      title={"Social Media and Web Analytics: A/B Testing Intro -- Code"},
+@misc{smwa-abtestnext-2024,
+      title={"Social Media and Web Analytics: A/B Testing Next Steps -- Code"},
       author={Lachlan Deer},
       year={2024},
-      url = "https://github.com/tisem-digital-marketing/smwa-ab-test-code"
+      url = "https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code"
 }
 ```
